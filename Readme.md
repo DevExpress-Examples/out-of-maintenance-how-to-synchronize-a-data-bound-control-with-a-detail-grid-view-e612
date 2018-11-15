@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Sample/Form1.cs) (VB: [Form1.vb](./VB/Sample/Form1.vb))
+* [Program.cs](./CS/Sample/Program.cs) (VB: [Program.vb](./VB/Sample/Program.vb))
+<!-- default file list end -->
 # How to synchronize a data bound control with a detail grid view
 
 
